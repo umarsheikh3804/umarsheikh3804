@@ -1,8 +1,10 @@
 ### Hi there 👋
 ### - ⚡ My name is Umar Sheikh and I am studying Computer Engineering, with a focus on Decision, Information, and Communications Engineering, at the University of Texas at Austin. 
-### - 🤔 I’m interested in learning more about Machine Learning Hardware and Software. 
 ### - 🌱 I am currently taking classes like Algorithms, Computer Architecture, Probability, and Linear Systems and Signals. 
+### - 🤔 I’m interested in learning more about Machine Learning Hardware and Software. 
+### - 💞️ I’m looking to collaborate on large scale data science and machine learning projects
 ### - 📫 Email: umarsheikh4804@gmail.com
+
 
 <!--
 **umarsheikh3804/umarsheikh3804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
