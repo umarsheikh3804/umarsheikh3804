@@ -1,7 +1,7 @@
 ### Hi there 👋
-### - ⚡ My name is Umar Sheikh and I am studying Computer Engineering, with a focus on Decision, Information, and Communications Engineering, at the University of Texas at Austin. 
-### - 🌱 I am currently taking classes like Algorithms, Computer Architecture, Probability, and Linear Systems and Signals. 
-### - 🤔 I’m interested in learning more about Machine Learning Hardware and Software. 
+### - ⚡ My name is Umar Sheikh and I am a junior ECE major at the University of Texas at Austin. 
+### - 🌱 I am currently taking classes like Computer Architecture, Probability, and Linear Systems and Signals. 
+### - 🤔 I’m interested in learning more about Computer Architecture and Software Engineering. 
 ### - 💞️ I’m looking to collaborate on large scale data science and machine learning projects
 ### - 📫 Email: umarsheikh4804@gmail.com
 
