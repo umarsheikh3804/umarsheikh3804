@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### - ⚡ My name is Umar Sheikh and I am a junior ECE major at the University of Texas at Austin. 
-### - 🌱 I am currently taking classes like Computer Architecture, Probability, and Linear Systems and Signals. 
+### - 🌱 I am currently taking classes like Operating Systems, Advanced Verilog, and Software Design and Lab. 
 ### - 🤔 I’m interested in learning more about Computer Architecture and Software Engineering. 
 ### - 💞️ I’m looking to collaborate on large scale data science and machine learning projects
 ### - 📫 Email: umarsheikh4804@gmail.com
